@@ -7,4 +7,9 @@ Previously, I was engaged in the creation and maintenance of its infrastructure 
 
 ![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GnuriaN&count_private=true&show_icons=true)
 
+
 TDB...
+
+#### My contacts:
+My LI: https://www.linkedin.com/in/gnurian/
+My Telegram: https://t.me/gnurian
