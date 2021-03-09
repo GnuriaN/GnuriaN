@@ -11,5 +11,6 @@ Previously, I was engaged in the creation and maintenance of its infrastructure 
 TDB...
 
 #### My contacts:
-My LI: https://www.linkedin.com/in/gnurian/
-My Telegram: https://t.me/gnurian
+
+My LI: https://www.linkedin.com/in/gnurian/    
+My Telegram: https://t.me/gnurian     
