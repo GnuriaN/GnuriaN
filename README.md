@@ -6,14 +6,14 @@ Information technology is not a job. This is a style of life, it's when you lear
 Previously, I was engaged in the creation and maintenance of its infrastructure in small companies. I had to create the infrastructure from scratch, had to maintain the existing one, as well as to make modernization. My area of interest also includes information security.
 
 
-<details>
-<summary>GitHub stats</summary>
-![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GnuriaN&count_private=true&show_icons=true)
-</details>
 
-TDB...
 
 #### My contacts:
 
 My LI: https://www.linkedin.com/in/gnurian/    
-My Telegram: https://t.me/gnurian     
+My Telegram: https://t.me/gnurian
+
+<details>
+<summary>GitHub stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=GnuriaN&count_private=true&show_icons=true"> <img>
+</details>
