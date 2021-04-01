@@ -15,5 +15,7 @@ My Telegram: https://t.me/gnurian
 
 <details>
 <summary>GitHub stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=GnuriaN&count_private=true&show_icons=true"> <img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnurian" />
+  <p />
+  <img src="https://github-readme-stats.vercel.app/api?username=GnuriaN&count_private=true&show_icons=true" />
 </details>
